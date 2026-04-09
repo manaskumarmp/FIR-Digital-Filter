@@ -19,3 +19,10 @@ The Verilog design was simulated using Xilinx Vivado. A testbench was created to
 From a performance perspective, FIR filters offer several advantages. They are always stable due to the absence of feedback loops, and they can be designed to have a linear phase response, which is crucial in many signal processing applications. However, FIR filters require more computational resources, as each additional tap increases the number of multipliers and adders required in hardware. This can lead to higher power consumption and area in VLSI implementations.
 
 In conclusion, this project successfully demonstrated both the theoretical and practical aspects of FIR filter design. MATLAB was used for algorithm-level design and analysis, while Verilog and Xilinx Vivado were used for hardware-level implementation and simulation. The results verified that the FIR filter effectively removes noise and produces a stable, reliable output, making it suitable for a wide range of digital signal processing applications.
+
+
+Outcome:
+<img width="1919" height="1078" alt="Image" src="https://github.com/user-attachments/assets/594bf808-019b-4a98-a353-8fca27f99bb8" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/0a8f917b-f9d0-4e5d-854a-090f87ddaf26" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/ee21cb6f-4813-428e-8ed5-6bf2880957b4" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d09c70ca-5afb-4385-9793-05d1fcde8b7a" />
